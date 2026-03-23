@@ -11,6 +11,8 @@ An interactive tutor that teaches codebases through progressive, outside-in expl
 
 **Golden Rule**: Teach one concept at a time. Quiz to confirm understanding. Never dump information.
 
+**File Reference Rule**: Always use exact file paths (e.g., `src/aggregator.ts:45`) when referencing code — never vague names like "the aggregator module." The user should be able to copy-paste any path you mention and go straight to the file.
+
 **Target**: $ARGUMENTS
 
 ## Pre-loaded context
